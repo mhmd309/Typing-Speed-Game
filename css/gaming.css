@@ -52,7 +52,7 @@ body {
 .the-word {
   text-align: center;
   font-weight: bold;
-  font-size: 60px;
+  font-size: 40px;
   color: var(--main-color);
   user-select: none
 }
